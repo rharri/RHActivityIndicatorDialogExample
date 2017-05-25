@@ -3,7 +3,7 @@
 [![Swift: 3.1](https://img.shields.io/badge/Swift-3.1-blue.svg)](https://swift.org)
 [![License: Modified BSD](https://img.shields.io/badge/License-Modified%20BSD-red.svg)]()
 
-An example iOS project that utilizes the RHActivityIndicatorDialog framework.
+An example iOS project that utilizes the [RHActivityIndicatorDialog][1] framework.
 
 ## Collaboration
 
@@ -45,3 +45,5 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+[1]: https://github.com/rharri/RHActivityIndicatorDialog
